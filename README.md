@@ -5,6 +5,9 @@
 - 💞️ I am looking to collaborate on Data Analytics Competitions, IOT Projects, and Statistical Research.
 - 📫 You can contact me on Twitter at @sagardgoswami.
 
+Please find my resume below:
+![Sagar Resume](https://github.com/GoswamiSagarD/GoswamiSagarD/blob/5af64d61ec23813d54834647b790ff22f724caea/resume_public1024_1.jpg)
+
 <!---
 GoswamiSagarD/GoswamiSagarD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
