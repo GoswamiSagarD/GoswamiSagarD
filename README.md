@@ -14,9 +14,9 @@
 
 Please find my resume below:
 
-![Sagar Resume](https://github.com/GoswamiSagarD/GoswamiSagarD/blob/5af64d61ec23813d54834647b790ff22f724caea/resume_public1024_1.jpg)
+![Sagar Resume](https://github.com/GoswamiSagarD/GoswamiSagarD/blob/main/resume_public1024_1.jpg)
 <hr>
-![Sagar Resume](https://github.com/GoswamiSagarD/GoswamiSagarD/blob/5af64d61ec23813d54834647b790ff22f724caea/resume_public1024_2.jpg)
+![Sagar Resume](https://github.com/GoswamiSagarD/GoswamiSagarD/blob/main/resume_public1024_2.jpg)
 
 <!---
 GoswamiSagarD/GoswamiSagarD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
