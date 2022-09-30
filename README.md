@@ -15,7 +15,9 @@
 Please find my resume below:
 
 ![Sagar Resume](https://github.com/GoswamiSagarD/GoswamiSagarD/blob/main/resume_public1024_1.jpg)
+
 <hr>
+
 ![Sagar Resume](https://github.com/GoswamiSagarD/GoswamiSagarD/blob/main/resume_public1024_2.jpg)
 
 <!---
