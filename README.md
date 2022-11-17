@@ -20,6 +20,8 @@ Please find my resume below:
 
 ![Sagar Resume](https://github.com/GoswamiSagarD/GoswamiSagarD/blob/main/resume_public1024_2.jpg)
 
+![You may find some of my projects here.](https://github.com/GoswamiSagarD?tab=repositories)
+Feel free to reach out to me at goswami.sagar.d@gmail.com for any job opportunities, or any project collaborations (I am always up for interesting projects)
 <!---
 GoswamiSagarD/GoswamiSagarD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
